@@ -1,4 +1,3 @@
-// SB.java – Serwer Bankowy
 import java.io.*;
 import java.net.*;
 import java.util.*;
